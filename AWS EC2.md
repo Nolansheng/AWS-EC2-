@@ -18,3 +18,7 @@
 ## 6. [设置apache配置指定为自己的域名](https://blog.csdn.net/aa3115386/article/details/50782725)
 
 ## 7.正在配置Wordpress博客，了解一下简单的html
+
+## 8.为了防止把神奇的扣费，[解除在AWS的信用卡](https://www.zhihu.com/question/31410863)
+
+## 9.[用FileZilla传输文件到服务器](https://www.zhihu.com/question/31410863)，需要那个文件夹的权限不然会传输失败

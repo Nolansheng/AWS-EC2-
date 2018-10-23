@@ -12,7 +12,7 @@
 
 ## 4. [在服务器上配置apache服务](https://www.howtoing.com/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 一开始使用tomcat但是服务一直打不开
-
+## 4. [将域名绑定在apache](https://blog.csdn.net/aa3115386/article/details/50782725)
 ## 5. 此时在自己电脑ping 服务器公网IP如果ping 不同,在EC2安全组中将入站的设置为全部流量
 
 ## 6. [设置apache配置指定为自己的域名](https://blog.csdn.net/aa3115386/article/details/50782725)

@@ -16,7 +16,7 @@
 ## 5. 此时在自己电脑ping 服务器公网IP如果ping 不同,在EC2安全组中将入站的设置为全部流量
 
 ## 6. [设置apache配置指定为自己的域名](https://blog.csdn.net/aa3115386/article/details/50782725)
-
+### 6.1 [配置二级域名](https://blog.csdn.net/alps1992/article/details/49183747?utm_source=blogxgwz2)
 ## 7.正在配置Wordpress博客，了解一下简单的html
 
 ## 8.为了防止把神奇的扣费，[解除在AWS的信用卡](https://www.zhihu.com/question/31410863)

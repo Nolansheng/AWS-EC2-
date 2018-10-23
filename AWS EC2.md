@@ -22,3 +22,7 @@
 ## 8.为了防止把神奇的扣费，[解除在AWS的信用卡](https://www.zhihu.com/question/31410863)
 
 ## 9.[用FileZilla传输文件到服务器](https://www.zhihu.com/question/31410863)，需要那个文件夹的权限不然会传输失败
+
+## 10. [wordpress配置](http://www.datascientist.top/article-151.html)
+
+## 11 [ubuntu18 的mysql安装](https://blog.csdn.net/Iversonx/article/details/80341596)
